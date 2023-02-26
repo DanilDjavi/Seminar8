@@ -1,4 +1,4 @@
-﻿/// See https://aka.ms/new-console-template for more information
+﻿// See https://aka.ms/new-console-template for more information
 
 // Домашнее задание к семинару 8 от 20.02.2023
 //=====================================================================================================================
@@ -664,3 +664,15 @@ Console.WriteLine(moveDirection);
 
 }
 
+
+
+void PauseString()
+{
+    Console.WriteLine("Для продолжения нажмите Enter...");
+    Console.ReadLine();
+}
+
+    //myTaskMenu();
+    Task_62();
+   
+  
